@@ -6,5 +6,5 @@ I decided to use this opportunity to gather Tinder profile to build a database t
 
 The purpose of this project is two-fold:
 
-1. Can we harness the power of online dating to land me a job?
-2. Can I find a statistically significant insight on Tinder users based on a activity
+1. Can we harness the power of online dating to land me a job?          (no)
+2. Can I find a statistically significant insight on Tinder users based on a activity       (also no)
